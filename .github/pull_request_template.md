@@ -1,6 +1,15 @@
 ## This should be small
 
 Small pull requests are great and easy for me to understand and accept
+Please try prefix every commits in the pull request with  [Arlo's git notation](https://github.com/RefactoringCombos/ArlosCommitNotation/blob/master/README.md)
+| Prefix | Meaning |
+|--------|---------|
+| e   | development enviroment only - not production|
+| d   | documentation only|
+| t   | tests only|
+| R!! | Refactoring |
+| B!! | Bug Fix |
+| F!! | New Feature |
 
 ## But it's not small!
 
